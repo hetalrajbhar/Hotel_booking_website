@@ -4,5 +4,5 @@
 ![image](https://github.com/hetalrajbhar/Hotel_booking_website/assets/139375451/11001837-e84d-426b-864e-b7020b7ba94f)
 ![image](https://github.com/hetalrajbhar/Hotel_booking_website/assets/139375451/6f2e50db-b685-4e57-989d-ad570b01b9e0)
 
-this is the front-end website developed  using php,html5 and bootstrap5 . It runs on the xampp server.
+this is the front-end website developed  using php,html5,css,javascript and bootstrap5 . It runs on the xampp server.
 
